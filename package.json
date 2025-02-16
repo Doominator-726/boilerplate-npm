@@ -5,6 +5,7 @@
 	"description": "I flail around and learn crap",
 	"keywords": ["wordy", "freecodecamp", "awesome"],
 	"license": "MIT",
+	"version": "1.2.0",
 
 	"dependencies": {
 		"express": "^4.14.0"
